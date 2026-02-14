@@ -13,7 +13,7 @@ A Python toolkit for managing and changing MAC addresses on Windows systems.
 
 1. Clone the repository:
 ```bash
-cd info-changer
+cd Mac-Changer
 ```
 
 2. No additional dependencies required (uses Python standard library)
@@ -66,9 +66,6 @@ python Mac_OUI.py
 - Some network adapters may not support MAC address changes
 - Changes take effect after adapter restart
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details
 
 ## Disclaimer
 
